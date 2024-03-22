@@ -106,6 +106,7 @@ input::placeholder {
 	border-radius: 15px;
 	background-color: #fff;
 	cursor: pointer;
+	font-size: 25px;
 }
 
 .memes-list__select:focus {
